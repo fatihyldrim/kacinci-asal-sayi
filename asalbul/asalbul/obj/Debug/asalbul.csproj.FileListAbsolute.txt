@@ -1,0 +1,6 @@
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\bin\Debug\asalbul.exe
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\bin\Debug\asalbul.pdb
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\obj\Debug\asalbul.exe
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\obj\Debug\asalbul.pdb
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\obj\Debug\asalbul.csprojAssemblyReference.cache
+C:\_Fatih\Çalışmalarım\KriptolojiDestek\asalsayi\asalbul\asalbul\obj\Debug\asalbul.csproj.CoreCompileInputs.cache
